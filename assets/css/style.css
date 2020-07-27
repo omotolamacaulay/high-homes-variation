@@ -94,7 +94,7 @@ padding: 0.2rem 1.25rem;
 }
 
 .hero-section{
-  background-image: url('../img/background2.svg');
+  background-image: url('../img/background.png');
   background-repeat: no-repeat;
   background-size: cover;
   bottom: 40px;
@@ -507,7 +507,7 @@ line-height: 12px;
 } */
 @media (min-width: 576px) { 
   .hero-section{
-    background-image: url('../img/background2.svg');
+    background-image: url('../img/background.png');
     background-repeat: no-repeat;
     background-size: cover;
     bottom: 65px;
@@ -526,7 +526,7 @@ line-height: 18px;
 
 @media (min-width: 768px) { 
   .hero-section{
-    background-image: url('../img/background2.svg');
+    background-image: url('../img/background.png');
     background-repeat: no-repeat;
     background-size: cover;
     bottom: 70px;
@@ -661,7 +661,7 @@ line-height: 23px;
   min-width: 10.9rem;
   }
   .hero-section{
-    background-image: url('../img/background.svg');
+    background-image: url('../img/backgroundd.png');
     background-repeat: no-repeat;
     background-size: cover;
     bottom: 45px;
